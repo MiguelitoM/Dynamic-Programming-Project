@@ -49,6 +49,4 @@ The generator always emits an instance that **has at least one valid parenthesiz
 ### Solve an instance
 ```bash
 ./solver < input.txt        # reads stdin, writes stdout
-# or, with the original naming:
-./a.out < tests/instance1
 ```
