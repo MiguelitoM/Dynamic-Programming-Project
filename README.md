@@ -10,7 +10,7 @@ Given
 * a sequence of *m* integers followed by the target value,
 
 the solver uses dynamic programming to explore sub‑expressions and records, for each subsequence **S_{i…j}**, every distinct value reachable together with the split point that produced it.  
-If at the end a value equal to the target appears for **S_{0…m‑1}**, the algorithm reconstructs the **leftmost** parenthesization that yields it; otherwise it reports failure. This guarantees O(m³) time in the worst case with a memory footprint of O(m²·n).
+If at the end a value equal to the target appears for **S_{0…m‑1}**, the algorithm reconstructs the **leftmost** parenthesization that yields it; otherwise it reports failure.
 
 ## 📜 Example
 |⊕|1|2|3|
