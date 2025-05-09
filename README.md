@@ -1,6 +1,6 @@
 ## Lost‑Temple Parenthesization Solver – ASA Project 1 (2024/25)
 
-### Overview
+### 🔍 Overview
 This program automates the **parenthesization** of a sequence of integers under a custom binary operator ⊕ so that the evaluated expression matches a desired result.  
 The operator is defined only by its lookup table, supplied as part of the input.  
 The solver was developed for the *Analysis and Design of Algorithms* course (ASA) at Instituto Superior Técnico.
